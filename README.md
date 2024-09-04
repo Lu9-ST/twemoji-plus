@@ -7,6 +7,7 @@ More to come!
 ## Roadmap / Ideas
 - MSN / Windows Live Messenger Emoticons
 - Skype Emoticons
+- Some Twitch Emotes
 - "Everybody Edits" Smileys
 - Missing Wingdings + Wingdings 2 & 3
 - Rage Comic Faces
