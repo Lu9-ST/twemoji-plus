@@ -11,9 +11,10 @@ More to come!
 - "Everybody Edits" Smileys
 - Missing Wingdings + Wingdings 2 & 3
 - Rage Comic Faces
-- Famous Logos
+- Notable objects/food/characters/etc. from media
+- Some Famous Logos
 - Game Console Button Prompts
-- Currently missing in Unicode
+- Currently missing in Unicode (Popular Requests)
 - Pride/Fictional Location Flags
 
 ## License
